@@ -5,9 +5,10 @@ public class Alpha {
 		
 		int x;
 		
-		x = 10;
+		x = 5;
 		
 		System.out.println("Value of x is: " + x);
+
 		
 	}
 
